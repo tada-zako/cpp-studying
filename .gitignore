@@ -1,0 +1,8 @@
+ComputerPractice/Investment-Combin/Investment-Combin/
+*.filters
+*.sln
+*.vcxproj
+*.user
+**/x64/
+**/.vs/
+*.zip
